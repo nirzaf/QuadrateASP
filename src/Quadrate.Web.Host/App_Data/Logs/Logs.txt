@@ -1,0 +1,44 @@
+DEBUG 2022-03-07 12:22:07,618 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2022-03-07 12:22:07,994 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2022-03-07 12:22:08,004 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Quadrate.Web.Host.Startup.QuadrateWebHostModule, Quadrate.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,005 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Quadrate.QuadrateWebCoreModule, Quadrate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,006 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Quadrate.QuadrateApplicationModule, Quadrate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,006 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Quadrate.QuadrateCoreModule, Quadrate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,006 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,007 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,007 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,007 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,007 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Quadrate.EntityFrameworkCore.QuadrateEntityFrameworkModule, Quadrate.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,008 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:08,010 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2022-03-07 12:22:08,327 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-03-07 12:22:08,327 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-03-07 12:22:08,327 [1    ] o.Configuration.LanguageManagementConfig - Converted Quadrate (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-03-07 12:22:08,327 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2022-03-07 12:22:09,154 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Quadrate.EntityFrameworkCore.QuadrateDbContext, Quadrate.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2022-03-07 12:22:09,352 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2022-03-07 12:22:09,416 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2022-03-07 12:22:09,429 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2022-03-07 12:22:09,434 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Quadrate
+DEBUG 2022-03-07 12:22:09,438 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2022-03-07 12:22:09,444 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2022-03-07 12:22:09,455 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Quadrate.MultiTenancy.Tenant, Quadrate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Quadrate.Authorization.Users.User, Quadrate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2022-03-07 12:22:09,587 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2022-03-07 12:22:09,587 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2022-03-07 12:22:09,591 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Users.Dto.CreateUserDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Users.Dto.UserDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Sessions.Dto.UserLoginInfoDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.Roles.Dto.PermissionDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2022-03-07 12:22:09,592 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Quadrate.MultiTenancy.Dto.TenantDto
+WARN  2022-03-07 12:22:11,227 [1    ] oft.EntityFrameworkCore.Model.Validation - Entity 'Edition' has a global query filter defined and is the required end of a relationship with the entity 'EditionFeatureSetting'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+INFO  2022-03-07 12:22:11,529 [1    ] osoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.0 initialized 'QuadrateDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+INFO  2022-03-07 12:22:14,564 [orker] osoft.EntityFrameworkCore.Infrastructure - Entity Framework Core 6.0.0 initialized 'QuadrateDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+ERROR 2022-03-07 12:22:22,393 [orker] .EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'QuadrateDb' on server 'localhost'.
+ERROR 2022-03-07 12:22:22,393 [1    ] .EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'QuadrateDb' on server 'localhost'.
